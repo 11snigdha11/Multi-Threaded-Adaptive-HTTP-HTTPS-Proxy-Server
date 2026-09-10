@@ -1,0 +1,4 @@
+# Block a few social media sites
+facebook.com
+tiktok.com
+x.com
